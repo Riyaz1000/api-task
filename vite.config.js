@@ -1,7 +1,7 @@
 import { defineConfig } from "vite";
 
 export default defineConfig({
-  base: "/form-task/",
+  base: "/api-task/",
 });
 
 // rollup.config.js
