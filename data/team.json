@@ -1,0 +1,73 @@
+[
+  {
+    "id": 1,
+    "name": "Cristiano Ronaldo",
+    "clubs": ["JUVENTUS", "REAL MADRID"],
+    "goals": 873,
+    "married": true,
+    "dod": null,
+    "family": {
+      "country": "Portugal",
+      "position": "Striker",
+      "age": 38.9
+    },
+    "img": "https://static.javatpoint.com/top10-technologies/images/top-10-football-players3.png"
+  },
+  {
+    "id": 2,
+    "name": " Lionel Messi ",
+    "goals": 819,
+    "married": true,
+    "dod": null,
+    "clubs": ["Barcelona", "PSG"],
+    "family": {
+      "country": "Argentina",
+      "position": "Striker",
+      "age": 36
+    },
+    "img": "https://static.javatpoint.com/top10-technologies/images/top-10-football-players3.png"
+  },
+  {
+    "id": 3,
+    "name": "Kylian Mbappe",
+    "goals": 288,
+    "married": false,
+    "dod": null,
+    "clubs": ["France", "PSG"],
+    "family": {
+      "country": "France",
+      "position": "Striker",
+      "age": 25
+    },
+    "img": "https://static.javatpoint.com/top10-technologies/images/top-10-football-players3.png"
+  },
+
+  {
+    "id": 4,
+    "name": "Sergio Ramos",
+    "goals": 114,
+    "married": true,
+    "dod": null,
+    "clubs": ["Real Madrid", "PSG"],
+    "family": {
+      "country": "Spain",
+      "position": "Defender",
+      "age": 37
+    },
+    "img": "https://static.javatpoint.com/top10-technologies/images/top-10-football-players3.png"
+  },
+  {
+    "id": 5,
+    "name": "Karim Benzema",
+    "goals": 477,
+    "married": true,
+    "dod": null,
+    "clubs": ["France", "Real Mdrid"],
+    "family": {
+      "country": "France",
+      "position": "striker",
+      "age": 36
+    },
+    "img": "https://static.javatpoint.com/top10-technologies/images/top-10-football-players3.png"
+  }
+]

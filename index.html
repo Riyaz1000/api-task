@@ -3,14 +3,112 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Vite App</title>
+    <title>JSON DATA</title>
 
     <!-- TailwindCSS -->
     <link rel="stylesheet" href="./assets/css/index.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
+      integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap"
+      rel="stylesheet"
+    />
   </head>
   <body>
     <!-- Write your HTML here -->
-    <div id="app" class="text-3xl font-bold">Hello Vite HTML & Tailwind!</div>
+    <div class="bg-zinc-950 mt-3 p-2 mx-[425px] rounded">
+      <div class="flex">
+        <div class="text-white font-poppins">
+          Holiday | Money | RT Shops | Puzzles
+        </div>
+
+        <div class="text-white ml-56 font-poppins">
+          <i class="fa-solid fa-user mr-1"></i> Signin | Register
+        </div>
+      </div>
+      <hr class="mt-3" />
+
+      <div class="flex mt-3 mb-7">
+        <div class="text-white text-3xl font-extrabold mt-1">
+          RadioTimes.Com
+        </div>
+        <div>
+          <input
+            type="text"
+            placeholder="Search Player Name..."
+            class="mt-2.5 rounded p-2 ml-40 outline-none"
+          />
+          <button type="button" class="text-white p-2 bg-[#fda4af] rounded">
+            <i class="fa-solid fa-magnifying-glass" style="color: #000000"></i>
+          </button>
+        </div>
+      </div>
+      <hr />
+
+      <div>
+        <ul class="text-white mt-2 flex space-x-5">
+          <li>
+            TV
+            <i
+              class="fa-solid fa-chevron-down text-sm ml-1.5"
+              style="color: #f4b3e0"
+            ></i>
+          </li>
+
+          <li>
+            SPORTS<i
+              class="fa-solid fa-chevron-down text-sm ml-1.5"
+              style="color: #f4b3e0"
+            ></i>
+          </li>
+          <li>
+            GAMING<i
+              class="fa-solid fa-chevron-down text-sm ml-1.5"
+              style="color: #f4b3e0"
+            ></i>
+          </li>
+          <li>
+            HIGHLIGHTS<i
+              class="fa-solid fa-chevron-down text-sm ml-1.5"
+              style="color: #f4b3e0"
+            ></i>
+          </li>
+          <li>
+            LEAGUES<i
+              class="fa-solid fa-chevron-down text-sm ml-1.5"
+              style="color: #f4b3e0"
+            ></i>
+          </li>
+          <li>
+            ON STREAMING<i
+              class="fa-solid fa-chevron-down text-sm ml-1.5"
+              style="color: #f4b3e0"
+            ></i>
+          </li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="m-1 min-h-screen bg-blue-300 p-5 max-w-2xl mx-auto rounded">
+      <h4 class="text-3xl font-semibold font-poppins text-zinc-950">
+        Best football players in the world ranked
+        <span class="mx-64 mt-0.5"> 2023 </span>
+      </h4>
+      <div class="player-style font-poppins">
+        Our comprehensive round-up of the 5 best football players in the world
+        in 2023.
+      </div>
+
+      <ul id="teamList" class="font-normal font-poppins"></ul>
+    </div>
+
     <script type="module" src="./assets/js/main.js"></script>
   </body>
 </html>
