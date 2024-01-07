@@ -1,22 +1,8 @@
 import { defineConfig } from "vite";
-import { resolve } from "path";
 
 export default defineConfig({
-  base: "/api-task/",
-  build: {
-    rollupOptions: {
-      input: {
-        input: "src/main.js",
-      },
-    },
-  },
+  base: "/form-task/",
 });
-
-// import { defineConfig } from "vite";
-
-// export default defineConfig({
-//   base: "/form-task/",
-// });
 
 // rollup.config.js
 // import { defineConfig } from 'vite';
