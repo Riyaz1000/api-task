@@ -2,7 +2,7 @@ import { defineConfig } from "vite";
 import { resolve } from "path";
 
 export default defineConfig({
-  base: "Riyaz1000/api-task",
+  base: "/api-task/",
   build: {
     rollupOptions: {
       input: {
@@ -11,3 +11,9 @@ export default defineConfig({
     },
   },
 });
+
+// import { defineConfig } from "vite";
+
+// export default defineConfig({
+//   base: "/form-task/",
+// });
