@@ -7,5 +7,5 @@
   @apply shadow p-3 font-semibold my-6 space-x-3 bg-gray-300 rounded;
 }
 .player-img {
-  @apply w-36 h-48 mx-24;
+  @apply w-36 h-48;
 }

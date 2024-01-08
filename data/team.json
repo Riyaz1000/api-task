@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Cristiano Ronaldo",
-    "clubs": ["JUVENTUS", "REAL MADRID"],
+    "clubs": ["JUVENTUS", "REAL MADRID", "MANCHESTER UNITED"],
     "goals": 873,
     "married": true,
     "dod": null,
@@ -11,7 +11,7 @@
       "position": "Striker",
       "age": 38.9
     },
-    "img": "https://static.javatpoint.com/top10-technologies/images/top-10-football-players3.png"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Cristiano_Ronaldo_playing_for_Al_Nassr_FC_against_Persepolis%2C_September_2023_%28cropped%29.jpg/640px-Cristiano_Ronaldo_playing_for_Al_Nassr_FC_against_Persepolis%2C_September_2023_%28cropped%29.jpg"
   },
   {
     "id": 2,
@@ -19,13 +19,13 @@
     "goals": 819,
     "married": true,
     "dod": null,
-    "clubs": ["Barcelona", "PSG"],
+    "clubs": ["Barcelona FC", "PARIS FC CLUB", "ARGENTINA TEA"],
     "family": {
       "country": "Argentina",
       "position": "Striker",
       "age": 36
     },
-    "img": "https://static.javatpoint.com/top10-technologies/images/top-10-football-players3.png"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Lionel-Messi-Argentina-2022-FIFA-World-Cup_%28cropped%29.jpg"
   },
   {
     "id": 3,
@@ -33,13 +33,13 @@
     "goals": 288,
     "married": false,
     "dod": null,
-    "clubs": ["France", "PSG"],
+    "clubs": [" TEAM FRANCE", "PARIS SAINT CLUB OF FOOTBALL"],
     "family": {
       "country": "France",
       "position": "Striker",
       "age": 25
     },
-    "img": "https://static.javatpoint.com/top10-technologies/images/top-10-football-players3.png"
+    "img": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202212/kylian_mbappe_reuters-three_four.jpg?VersionId=rY1KKCo4k7imZ6P5AemPZfl6LJsSLo8f"
   },
 
   {
@@ -48,13 +48,13 @@
     "goals": 114,
     "married": true,
     "dod": null,
-    "clubs": ["Real Madrid", "PSG"],
+    "clubs": ["REAL MADRID", "SEVEILLA", "PARIS SAINT FOOTBALL "],
     "family": {
       "country": "Spain",
       "position": "Defender",
       "age": 37
     },
-    "img": "https://static.javatpoint.com/top10-technologies/images/top-10-football-players3.png"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Russia-Spain_2017_%286%29.jpg/220px-Russia-Spain_2017_%286%29.jpg"
   },
   {
     "id": 5,
@@ -62,12 +62,12 @@
     "goals": 477,
     "married": true,
     "dod": null,
-    "clubs": ["France", "Real Mdrid"],
+    "clubs": ["France", "REAL MADRID", "AL-HILAL FOOTBALL CLUB"],
     "family": {
       "country": "France",
       "position": "striker",
       "age": 36
     },
-    "img": "https://static.javatpoint.com/top10-technologies/images/top-10-football-players3.png"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Karim_Benzema_wearing_Real_Madrid_home_kit_2021-2022.jpg"
   }
 ]
