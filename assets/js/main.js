@@ -32,7 +32,7 @@ for (const player of team) {
   <div class ="col-start-6 "> 
   #${player.id} 
   <br> Name - ${player.name} 
-  <br> Club - (${player.clubs.join(" , ")}) 
+  <br> Club - (${player.clubs.join(" , ").toUpperCase()}) 
   <br> Goals - ${player.goals}
   <br> Country - ${player.family.country}
   <br> Age - ${player.family.age}

@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Cristiano Ronaldo",
-    "clubs": ["JUVENTUS", "REAL MADRID", "MANCHESTER UNITED"],
+    "clubs": ["JUVENTUS", "REAL MADRID", "MANCHESTER UNITEDD"],
     "goals": 873,
     "married": true,
     "dod": null,
@@ -19,7 +19,7 @@
     "goals": 819,
     "married": true,
     "dod": null,
-    "clubs": ["Barcelona FC", "PARIS FC CLUB", "ARGENTINA TEA"],
+    "clubs": ["Barcelona FC", "PARIS FC CLUB", "ARGENTINA TEA "],
     "family": {
       "country": "Argentina",
       "position": "Striker",
@@ -33,7 +33,7 @@
     "goals": 288,
     "married": false,
     "dod": null,
-    "clubs": [" TEAM FRANCE", "PARIS SAINT CLUB OF FOOTBALL"],
+    "clubs": ["TEAM FRANCE", "PARISS SAINT CLUB OF FOOTBALL "],
     "family": {
       "country": "France",
       "position": "Striker",
@@ -48,7 +48,7 @@
     "goals": 114,
     "married": true,
     "dod": null,
-    "clubs": ["REAL MADRID", "SEVEILLA", "PARIS SAINT FOOTBALL "],
+    "clubs": ["REAL MADRID", "SEVEILLAA", "PARIS SAINT FOOTBALL "],
     "family": {
       "country": "Spain",
       "position": "Defender",
